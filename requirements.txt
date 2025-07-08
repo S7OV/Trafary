@@ -1,0 +1,11 @@
+opencv-python
+numpy
+pillow
+moviepy
+mediapipe
+pandas
+matplotlib
+tqdm
+reportlab
+shutil
+concurrent.futures
